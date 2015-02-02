@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.google.com/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.9
+                      http://www.google.com/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://www.ashworthfirm.com/</loc>
+  <lastmod>2013-10-13T02:02:46Z</lastmod>
+  <priority>1</priority>
+ </url>
+ <url>
+  <loc>http://www.ashworthfirm.com/?author=1</loc>
+  <priority>0.0357</priority>
+ </url>
+ <url>
+  <loc>http://www.ashworthfirm.com/?feed=rss2</loc>
+  <priority>0.0178</priority>
+ </url>
+ <url>
+  <loc>http://www.ashworthfirm.com/Home.html</loc>
+  <lastmod>2013-07-24T02:59:23Z</lastmod>
+  <priority>0.0178</priority>
+ </url>
+ <url>
+  <loc>http://www.ashworthfirm.com/ashworthfirm.com_sitemap.xml.old</loc>
+  <lastmod>2013-10-13T02:02:46Z</lastmod>
+  <priority>0.0178</priority>
+ </url>
+ <url>
+  <loc>http://www.ashworthfirm.com/cgi-bin/</loc>
+  <lastmod>2013-07-24T02:59:36Z</lastmod>
+  <priority>0.0178</priority>
+ </url>
+ <url>
+  <loc>http://www.ashworthfirm.com/cgi-bin/tmp/</loc>
+  <lastmod>2013-07-24T02:59:36Z</lastmod>
+  <priority>0.0178</priority>
+ </url>
+</urlset>
